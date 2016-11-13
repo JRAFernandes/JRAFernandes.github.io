@@ -1,1 +1,9 @@
 .monkey-img {width: 150px; height: 200px; margin-bottom: 30px}
+html{background-color: #d6e4f9}
+h1{text-align: center}
+.box-1 {border-color: #8bb1ed; border-width: 5px; border-style: solid}
+.box-2 {height: 200px}
+.Vietnam {margin-top: 50px; border-style: solid; border-width: 10px; border-color: #d4e1f7}
+.Cambodia {margin-top: 50px; margin-left: 100px; border-style: solid; border-width: 10px; border-color: #d4e1f7}
+.Laos{margin-top: 10px; margin-left: 100px; border-style: solid; border-width: 10px; border-color: #d4e1f7}
+.Myanmar {margin-left: 100px; border-style: solid; border-width: 10px; border-color: #d4e1f7}
